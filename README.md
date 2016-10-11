@@ -9,7 +9,7 @@ Un semáforo es una variable especial (o tipo abstracto de datos) que constituye
 Descripción:
 -------------
 
-![Esquema del problema](http://github.com/descripcion1.jpg)
+![Esquema del problema](https://github.com/Bryan100/Semaforo/blob/master/resources/Interacci%C3%B3n.png)
 
 > **Problema Bodega:**
 
@@ -20,11 +20,11 @@ Descripción:
 
 Para resolver este ejercicio se tuvo en cuenta semáforos mutex, probehen, e incrementan. A continuación se muestra el digrama de clases generado: 
 
-> ![Diagrama de clases generado](https://github.com/)
+> ![Diagrama de clases generado](https://github.com/Bryan100/Semaforo/blob/master/resources/Diagrama%20de%20Clases.jpg)
 
 Luego se muestra la consola de la apliacion: 
 
-> ![Consola aplicacion](https://github.com/)
+> ![Consola aplicacion](https://github.com/Bryan100/Semaforo/blob/master/resources/Pantallazos%20Pruebas.png)
 
   [^semaforo]: [Semáforo](https://es.wikipedia.org/wiki/Sem%C3%A1foro_(inform%C3%A1tica)) Tomado de: 
   https://es.wikipedia.org/wiki/Sem%C3%A1foro_(inform%C3%A1tica)
