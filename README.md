@@ -14,7 +14,7 @@ Descripción:
 > **Problema Bodega:**
 
 >La capacidad de la bodega es de 200 $m^3$. En la bodega se pueden colocar dos tipos de artículos, tipo 1 de volumen 10 $m^3$ y tipo 2 de 15 $m^3$. Cada vez se coloca un artículo, puede ser descargarArticulo(1) o descargarArticulo(2). Para crear un paquete el empacador necesita 3 artículos tipo 1 y 4 tipo 2, si no los hay debe esperar.
->![Diagrama de clases](https://github.com/)
+>![Diagrama de clases](https://github.com/Bryan100/Semaforo/blob/master/resources/14642819_1215276248518575_499705807_n.png)
 
 #### <i class="icon-pencil"></i> Solución
 
