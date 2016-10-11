@@ -20,7 +20,7 @@ Descripción:
 
 Para resolver este ejercicio se tuvo en cuenta semáforos mutex, probehen, e incrementan. A continuación se muestra el digrama de clases generado: 
 
-> ![Diagrama de clases generado](https://github.com/)
+> ![Diagrama de clases generado](https://github.com/Bryan100/Semaforo/blob/master/resources/Diagrama%20de%20Clases.jpg)
 
 Luego se muestra la consola de la apliacion: 
 
